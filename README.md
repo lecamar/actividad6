@@ -56,6 +56,7 @@ En Java el mecanismo que sí lo impide son los **modificadores de acceso**, que 
 
 ## Video
 
+[![Video actividad 6 ](https://img.youtube.com/vi/kUuyBynU5Ww/hqdefault.jpg)](https://www.youtube.com/watch?v=kUuyBynU5Ww)
 
 ## 3. Manual de programación
 
