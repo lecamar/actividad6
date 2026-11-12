@@ -57,7 +57,7 @@ En Java el mecanismo que sí lo impide son los **modificadores de acceso**, que 
 ## Video
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=kUuyBynU5Ww">
+  <a href="[https://www.youtube.com/watch?v=kUuyBynU5Ww](https://youtu.be/H7q9dEORVSQ)">
     <img src="https://img.shields.io/badge/YouTube-Ver%20Video-red?style=for-the-badge&logo=youtube" alt="Ver video en YouTube">
   </a>
 </div>
